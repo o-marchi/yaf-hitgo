@@ -1,0 +1,10 @@
+include ':core',
+        ':ui',
+        ':gson',
+        ':mvp',
+        ':permissions',
+        ':validation',
+        ':migration',
+        ':sqlite',
+        ':rest'
+
